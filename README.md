@@ -34,7 +34,7 @@ A simple Node.js command-line tool to get current weather information for any ci
 
  ```bash
     node weather.js <city_name>
-    
+    node wather.js mumbai
  ```
 
 
