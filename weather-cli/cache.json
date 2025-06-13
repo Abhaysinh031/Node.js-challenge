@@ -1,0 +1,284 @@
+{
+  "London": {
+    "timestamp": 1748761627228,
+    "data": {
+      "coord": {
+        "lon": -0.1257,
+        "lat": 51.5085
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 14.17,
+        "feels_like": 13.63,
+        "temp_min": 14.17,
+        "temp_max": 14.17,
+        "pressure": 1014,
+        "humidity": 76,
+        "sea_level": 1014,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 4.17,
+        "deg": 262,
+        "gust": 7.8
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1748761568,
+      "sys": {
+        "country": "GB",
+        "sunrise": 1748749745,
+        "sunset": 1748808477
+      },
+      "timezone": 3600,
+      "id": 2643743,
+      "name": "London",
+      "cod": 200
+    }
+  },
+  "Mumbai": {
+    "timestamp": 1748761638322,
+    "data": {
+      "coord": {
+        "lon": 72.8479,
+        "lat": 19.0144
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.2,
+        "feels_like": 33.98,
+        "temp_min": 29.2,
+        "temp_max": 29.2,
+        "pressure": 1007,
+        "humidity": 74,
+        "sea_level": 1007,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 6.53,
+        "deg": 218,
+        "gust": 7.02
+      },
+      "clouds": {
+        "all": 30
+      },
+      "dt": 1748761520,
+      "sys": {
+        "country": "IN",
+        "sunrise": 1748737840,
+        "sunset": 1748785352
+      },
+      "timezone": 19800,
+      "id": 1275339,
+      "name": "Mumbai",
+      "cod": 200
+    }
+  },
+  "Barshi": {
+    "timestamp": 1748761888340,
+    "data": {
+      "coord": {
+        "lon": 75.6875,
+        "lat": 18.2341
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.6,
+        "feels_like": 31.97,
+        "temp_min": 30.6,
+        "temp_max": 30.6,
+        "pressure": 1008,
+        "humidity": 50,
+        "sea_level": 1008,
+        "grnd_level": 948
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 6.8,
+        "deg": 250,
+        "gust": 8.03
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1748761965,
+      "sys": {
+        "country": "IN",
+        "sunrise": 1748737245,
+        "sunset": 1748784583
+      },
+      "timezone": 19800,
+      "id": 1276856,
+      "name": "Barshi",
+      "cod": 200
+    }
+  },
+  "solapur": {
+    "timestamp": 1748762015659,
+    "data": {
+      "coord": {
+        "lon": 75.9167,
+        "lat": 17.6833
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.06,
+        "feels_like": 32.92,
+        "temp_min": 31.06,
+        "temp_max": 31.06,
+        "pressure": 1008,
+        "humidity": 51,
+        "sea_level": 1008,
+        "grnd_level": 955
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 7.96,
+        "deg": 256,
+        "gust": 9.2
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1748761854,
+      "sys": {
+        "country": "IN",
+        "sunrise": 1748737251,
+        "sunset": 1748784468
+      },
+      "timezone": 19800,
+      "id": 1256436,
+      "name": "Solapur",
+      "cod": 200
+    }
+  },
+  "pune": {
+    "timestamp": 1749811487640,
+    "data": {
+      "coord": {
+        "lon": 73.8553,
+        "lat": 18.5196
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.9,
+        "feels_like": 32.16,
+        "temp_min": 28.9,
+        "temp_max": 28.9,
+        "pressure": 1001,
+        "humidity": 68,
+        "sea_level": 1001,
+        "grnd_level": 929
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 4.47,
+        "deg": 311,
+        "gust": 5.37
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1749811167,
+      "sys": {
+        "country": "IN",
+        "sunrise": 1749774468,
+        "sunset": 1749822095
+      },
+      "timezone": 19800,
+      "id": 1259229,
+      "name": "Pune",
+      "cod": 200
+    }
+  },
+  "mumbai": {
+    "timestamp": 1749811266030,
+    "data": {
+      "coord": {
+        "lon": 72.8479,
+        "lat": 19.0144
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.73,
+        "feels_like": 34,
+        "temp_min": 28.73,
+        "temp_max": 28.73,
+        "pressure": 1001,
+        "humidity": 80,
+        "sea_level": 1001,
+        "grnd_level": 1000
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 6.88,
+        "deg": 311,
+        "gust": 7.38
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1749810837,
+      "sys": {
+        "country": "IN",
+        "sunrise": 1749774652,
+        "sunset": 1749822395
+      },
+      "timezone": 19800,
+      "id": 1275339,
+      "name": "Mumbai",
+      "cod": 200
+    }
+  }
+}
