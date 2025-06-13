@@ -32,10 +32,10 @@ A simple Node.js command-line tool to get current weather information for any ci
 
 ### ✅ Run the CLI Tool:
 
-    ```bash
+ ```bash
     node weather.js <city_name>
     
-    ```
+ ```
 
 
 ### Output:
